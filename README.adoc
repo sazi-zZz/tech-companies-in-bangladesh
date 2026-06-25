@@ -182,7 +182,7 @@ https://www.linkedin.com/company/bracits/[LinkedIn]
 
 |Braincraft Limited
 |House: 295, Road: 19/B, Mohakhali DOHS, Dhaka-1206
-|Android, Java, Go, Javascript, AngularJS, NodeJS
+|Android, Java, Go, JavaScript, AngularJS, NodeJS
 |https://www.braincraftapps.com[Website]
 |Please update
 
@@ -594,10 +594,22 @@ https://www.linkedin.com/company/era-infotech-ltd/posts/[LinkedIn]
 |https://inovacetech.com/[Website]
 |Please update
 
+|Stockypos
+|Rupayan Shelford (9th Floor), 23/6, Mirpur Road, Shyamoli, Dhaka-1207, Bangladesh.
+|C#, .NET
+|https://www.infocratsolutions.com/[Website]
+|Please update
+
 |Instalogic
-|3rd Floor, House-483, Road-08, Baridhara DOHS, Dhaka-1206
-|PHP, Laravel, MySQL, Java, Python, Django, JavaScript, React, Drupal, Angular, Vue, Wordpress
-|https://instalogic.com.bd/[Website]
+|Challabon, Vai Vai Market, Dokkhinkhan, Dhaka
+|Retail POS, Restaurant POS, Service POS, repairpos
+|https://stockypos.com/[Website]
+|Please update
+
+|Instalogic
+|Challabon, Vai Vai Market, Dokkhinkhan, Dhaka
+|PHP, Laravel, MySQL, Java, JavaScript, Bootstrap, PostgreSQL,  Vue, WordPress.
+|https://preoit.com/[Website]
 |Please update
 
 |Integrated Software and Technologies Ltd.
